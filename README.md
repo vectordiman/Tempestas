@@ -1,2 +1,2 @@
 # Tempestas
-##The current version of Tempestas - 0.02
+## The current version of Tempestas - 0.02
