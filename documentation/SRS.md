@@ -30,7 +30,7 @@
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
 Проект использует фреймворк Qt и не взаимодействует с внешними системами и сервисами.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-Графический интерфейс проекта представлен с помощью мокапов [главного окна](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/mockups/MainWindow.png) и [способа регулирования громкости](https://raw.githubusercontent.com/steppbol/B-Player/master/documentation/mockups/ShowVolume.png).
+Графический интерфейс проекта представлен с помощью мокапов [главного окна](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/main.png), [окна подробностей](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/details.png) и [окна прогнозов](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/5days.png).
 Отдельного рассмотрения требует главное окно:
 
 Клавиша | Реакция
