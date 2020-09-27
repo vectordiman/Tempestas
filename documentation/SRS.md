@@ -27,12 +27,14 @@
 Приложение позволит просматривать информацию о погоде: прогноз, температуру, направление и силу ветра, атмосферное давление и т.д.
 #### 1.3 Аналоги <a name="1.3"></a>
 Аналогами данного проекта являются:
-* [Яндекс Погода](https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin&hl=ru) показывает прогноз на сегодня, на завтра или на целую неделю для всего города, отдельного района, станции метро или конкретного адреса.
+* [Яндекс.Погода](https://play.google.com/store/apps/details?id=ru.yandex.weatherplugin&hl=ru) показывает прогноз на сегодня, на завтра или на целую неделю для всего города, отдельного района, станции метро или конкретного адреса.
 * [Gismeteo](https://play.google.com/store/apps/details?id=ru.gismeteo.gismeteo&hl=ru) - красивое и удобное погодное приложение для Android от Gismeteo.
 * [Flowx](https://play.google.com/store/apps/details?id=com.enzuredigital.weatherbomb&hl=ru) подойдёт настоящим любителям метеорадаров и дополнительных сведений о погоде.
 ### 2. Требования пользователя <a name="2"></a>
 #### 2.1. Программные интерфейсы <a name="2.1"></a>
-Проект использует фреймворк Qt и не взаимодействует с внешними системами и сервисами.
+* [Swift](https://www.apple.com/ru/swift/) - надёжный и интуитивно понятный язык программирования от Apple.
+* [Xcode](https://developer.apple.com/xcode/) - фреймворк по разработке приложения для платформы iOS.
+* [Gismeteo API](https://www.gismeteo.ru/api/) -  документация для разработчиков, предоставляющая информацию о погоде.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
 Графический интерфейс проекта представлен с помощью мокапов [главного окна](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/main.png), [окна подробностей](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/details.png) и [окна прогнозов](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/5days.png).
 Отдельного рассмотрения требует главное окно:
