@@ -37,7 +37,7 @@
 * [Xcode](https://developer.apple.com/xcode/) - фреймворк по разработке приложения для платформы iOS.
 * [Gismeteo API](https://www.gismeteo.ru/api/) -  документация для разработчиков, предоставляющая информацию о погоде.
 #### 2.2. Интерфейс пользователя <a name="2.2"></a>
-Графический интерфейс проекта представлен с помощью мокапов [главного окна](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/main.png), [окна подробностей](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/details.png) и [окна прогнозов](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/5days.png).
+Графический интерфейс проекта представлен с помощью мокапов [главного окна](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/main.pdf), [окна подробностей](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/details.pdf) и [окна прогнозов](https://github.com/vectordiman/TRITPO/blob/master/documentation/mockups/5days.pdf).
 Отдельного рассмотрения требует главное окно:
 
 Клавиша | Реакция
