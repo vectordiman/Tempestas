@@ -22,28 +22,27 @@ Gismeteo API|Сервис для предоставление информаци
 **Описание.** Вариант использования "Выбор населенного пункта" предоставляет пользователю возможность управления списком населенных пунктов.
 Поток выполнения:
 1. Пользователь нажимает клавишу "+".
-2. Пользователь вводит .
-3. Пользователь заходит в свой аккаунт.
+2. Пользователь вводит информацию о населенном пункте.
+3. Пользователь просматривает информацию о погоде данного населенного пункта.
 4. Конец.
-##### 1.2.2 Choose colour<a name="1.2.2"></a>
-**Описание.** Вариант использования "Choose colour" позволяет пользователю выбрать цвет пикселя.
+##### 1.2.2 Получение информации о прогнозе погоды на 5 дней<a name="1.2.2"></a>
+**Описание.** Вариант использования "Получение информации о прогнозе погоды на 5 дней" предоставляет пользователю возможность просмотра прогноза погоды на 5 дней.
 Поток выполнения:
-1. Пользователь выбирает нужный доступный цвет.
-2. Пользователь нажимает клавишу ЛКМ.
-3. Приложение меняет цвет пикселя.
-4. Конец.
-##### 1.2.3 Change scale<a name="1.2.3"></a>
-**Описание.** Вариант использования "Change scale" позволяет пользователю изменить масштаб полотна.
+1. Пользователь нажимает клавишу "Прогноз на 5 дней".
+2. Пользователь просматривает информацию о прогнозе погоды на 5 дней.
+3. Конец.
+##### 1.2.3 Получение информации о погоде<a name="1.2.3"></a>
+**Описание.** Вариант использования "Получение информации о погоде" предоставляет пользователю возможность просмотра подробной информации о погоде на сегодня.
 Поток выполнения:
-1. Пользователь выбирает нужный масштаб.
-2. Приложение изменяет масштаб полотна.
+1. Пользователь нажимает клавишу "Подробнее".
+2. Пользователь просматривает подробную информацию о погоде на сегодня.
 3. Конец.
 
 ### 2. Диаграмма активности<a name="2"></a>
-Диагаммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Activity/README.md)
+Диагаммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/activity/README.md)
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграммы последовательности вариантов использования представляют из себя следующие диаграммы:
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramLogin.png)
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameElements.png)
-![Sequence Diagram](https://github.com/qkay111/PixelBattle/blob/master/documentation/uml-diagrams/Sequence/SequenceDiagramBuyGameCurrency.png)
+![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/5daysSequence.png)
+![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/addSequence.png)
+![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/detailsSequence.png)
