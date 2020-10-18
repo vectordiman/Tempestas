@@ -43,6 +43,6 @@ Gismeteo API|Сервис для предоставление информаци
 
 ### 3. Диаграмма последовательности<a name="3"></a>
 Диаграммы последовательности вариантов использования:
-![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/5daysSequence.png)
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/addSequence.png)
+![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/5daysSequence.png)
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/detailsSequence.png)
