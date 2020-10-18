@@ -39,10 +39,10 @@ Gismeteo API|Сервис для предоставление информаци
 3. Конец.
 
 ### 2. Диаграмма активности<a name="2"></a>
-Диагаммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/activity/README.md)
+Диаграммы активности более подробно расписаны в следующем документе: [диаграммы активности](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/activity/README.md)
 
 ### 3. Диаграмма последовательности<a name="3"></a>
-Диаграммы последовательности вариантов использования представляют из себя следующие диаграммы:
+Диаграммы последовательности вариантов использования:
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/5daysSequence.png)
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/addSequence.png)
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/detailsSequence.png)
