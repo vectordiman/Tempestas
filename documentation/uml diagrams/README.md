@@ -52,8 +52,8 @@ Gismeteo API|Сервис для предоставление информаци
 
 ### 4. Диаграмма состояний<a name="4"></a>
 Диаграммы состояний:
-![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/detailsState.pdf)
-![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/5daysState.pdf)
+![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/detailsState.png)
+![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/5daysState.png)
 
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму:
