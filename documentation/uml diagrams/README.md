@@ -56,9 +56,11 @@ Gismeteo API|Сервис для предоставление информаци
 ![State Diagram](https:)
 
 ### 5. Диаграмма классов<a name="5"></a>
-Диаграмма классов представляет собой следующую диаграмму: 
+Диаграмма классов представляет собой следующую диаграмму:
+
 ![Diagram Class](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/class%20diagram/DiagramClass.png)
 
 ### 6. Диаграмма развертывания и компонентов<a name="6"></a>
-Диаграмма развёртывания и компонентов представляет собой следующую диаграмму: 
+Диаграмма развёртывания и компонентов представляет собой следующую диаграмму:
+
 ![Deployment-Component](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/deployment-component/Deployment-Component.png)
