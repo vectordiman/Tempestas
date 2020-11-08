@@ -7,6 +7,9 @@
 1.2.3 [Получение информации о погоде](#1.2.3)<br>
 2. [Диаграмма активности](#2)
 3. [Диаграмма последовательности](#3)
+4. [Диаграмма состояний](#4)
+5. [Диаграмма классов](#5)
+6. [Диаграмма развертывания и компонентов](#6)
 
 ### 1. Диаграмма прецедентов<a name="1"></a>
 Диаграмма прецедентов представляет собой следующую диаграмму: 
@@ -46,3 +49,16 @@ Gismeteo API|Сервис для предоставление информаци
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/addSequence.png)
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/5daysSequence.png)
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/detailsSequence.png)
+
+### 4. Диаграмма состояний<a name="4"></a>
+Диаграммы состояний:
+![State Diagram](https:)
+![State Diagram](https:)
+
+### 5. Диаграмма классов<a name="5"></a>
+Диаграмма классов представляет собой следующую диаграмму: 
+![Diagram Class](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/class%20diagram/DiagramClass.png)
+
+### 6. Диаграмма развертывания и компонентов<a name="6"></a>
+Диаграмма развёртывания и компонентов представляет собой следующую диаграмму: 
+![Deployment-Component](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/deployment-component/Deployment-Component.png)
