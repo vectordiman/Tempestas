@@ -51,7 +51,7 @@ Gismeteo API|Сервис для предоставление информаци
 ![Sequence Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/sequence/detailsSequence.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
-Диаграммы состояний:
+Диаграммы состояний представляют собой следующие диаграммы:
 ![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/detailsState.png)
 ![State Diagram](https://github.com/vectordiman/TRITPO/blob/master/documentation/uml%20diagrams/state/5daysState.png)
 
